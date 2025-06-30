@@ -190,9 +190,6 @@ Citations:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
