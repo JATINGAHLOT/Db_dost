@@ -171,9 +171,6 @@ print(response)
 }
 ```
 
-Citations:
-[1] https://github.com/yourusername/sql-database-chat
-
 ## Security Considerations
 
 - SQL injection prevention through parameterized queries
