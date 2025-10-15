@@ -182,24 +182,4 @@ Citations:
 - Rate limiting on API endpoints
 - Proper error handling to prevent information leakage
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Create a Pull Request
-
-
-## Support
-
-For support:
-- Open an issue in the GitHub repository
-- Contact maintainers
-- Check documentation
-
-## Acknowledgments
-
-- LangChain team for the framework
-- OpenAI for GPT models
-- Contributors and maintainers
